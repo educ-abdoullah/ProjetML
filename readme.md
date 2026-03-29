@@ -1,3 +1,5 @@
+**Réalisé par : Abdoullah Mujeebur et Dimitri Leroux**
+
 # Système d’aide au tri radiologique
 
 ## Description du projet
