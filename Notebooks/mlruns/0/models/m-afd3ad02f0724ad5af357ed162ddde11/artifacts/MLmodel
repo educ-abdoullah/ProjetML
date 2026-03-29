@@ -1,0 +1,20 @@
+artifact_path: file:///c:/Users/dimit/Documents/Cours_M1/deep_learning_machine_learning/projet_deeplearning/Notebooks/mlruns/0/models/m-afd3ad02f0724ad5af357ed162ddde11/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.13.2
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.12.0
+mlflow_version: 3.10.1
+model_id: m-afd3ad02f0724ad5af357ed162ddde11
+model_size_bytes: 39718127
+model_uuid: m-afd3ad02f0724ad5af357ed162ddde11
+prompts: null
+run_id: ac4c9b582207407587bbf1347bde18a2
+utc_time_created: '2026-03-29 15:50:31.610499'
