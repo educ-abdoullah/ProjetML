@@ -120,7 +120,6 @@ projet_deeplearning/
 │   ├── supervised_models.ipynb
 │   ├── detection_ae_vae.ipynb
 │   ├── multimodal.ipynb
-│   ├── tests.ipynb
 │   └── mlflow.db
 │
 ├── requirements.txt
